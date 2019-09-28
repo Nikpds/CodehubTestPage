@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CodehubTestPage/static/css/main.b100e6da.chunk.css",
+    "main.js": "/CodehubTestPage/static/js/main.d67fca6f.chunk.js",
+    "main.js.map": "/CodehubTestPage/static/js/main.d67fca6f.chunk.js.map",
+    "runtime-main.js": "/CodehubTestPage/static/js/runtime-main.2c8dd776.js",
+    "runtime-main.js.map": "/CodehubTestPage/static/js/runtime-main.2c8dd776.js.map",
+    "static/css/2.1ab5750d.chunk.css": "/CodehubTestPage/static/css/2.1ab5750d.chunk.css",
+    "static/js/2.1a0e930b.chunk.js": "/CodehubTestPage/static/js/2.1a0e930b.chunk.js",
+    "static/js/2.1a0e930b.chunk.js.map": "/CodehubTestPage/static/js/2.1a0e930b.chunk.js.map",
+    "index.html": "/CodehubTestPage/index.html",
+    "precache-manifest.ab77c56d63761864e285008914948fb7.js": "/CodehubTestPage/precache-manifest.ab77c56d63761864e285008914948fb7.js",
+    "service-worker.js": "/CodehubTestPage/service-worker.js",
+    "static/css/2.1ab5750d.chunk.css.map": "/CodehubTestPage/static/css/2.1ab5750d.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/CodehubTestPage/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/CodehubTestPage/static/media/logo.25bf045c.svg"
+  }
+}
